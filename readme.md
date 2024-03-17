@@ -46,11 +46,11 @@ Before using Cloudflare Manager, make sure to set up a config.json file with you
 
 ## API
 
-### `new CloudflareManager()`
+`new CloudflareManager()`
 
 Creates a new instance of CloudflareManager.
 
-### `addSubdomain(payload)`
+`addSubdomain(payload)`
 
 Adds a subdomain to Cloudflare DNS records.
 
