@@ -1,0 +1,33 @@
+{
+  "name": "cfmzmanager",
+  "version": "0.1.0",
+  "module": "commonjs",
+  "description": "Cloudflare Manager is a Node.js package for managing DNS records and subdomains in Cloudflare.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mzcoder-hub/cfmzmanager.git"
+  },
+  "keywords": [
+    "Cloudflare Manager",
+    "Configuration",
+    "API",
+    "License",
+    "Cloudflare",
+    "DNS",
+    "subdomains"
+  ],
+  "author": "MzCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzcoder-hub/cfmzmanager/issues"
+  },
+  "homepage": "https://github.com/mzcoder-hub/cfmzmanager#readme",
+  "dependencies": {
+    "dformater": "^1.2.1",
+    "responseformatjson": "^0.1.2"
+  }
+}
