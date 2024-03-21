@@ -46,6 +46,8 @@ Before using Cloudflare Manager, make sure to set up a config.json file with you
 
 ## API
 
+Detail usage of the function Cfmzmanager for you better modified the package.
+
 `new CloudflareManager()`
 
 Creates a new instance of CloudflareManager.
